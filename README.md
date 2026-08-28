@@ -71,3 +71,15 @@ The analysis provides a structured view of insurance cost patterns that can supp
 - Portfolio monitoring
 - Identification of high-cost customer groups
 - Data-driven insurance strategy
+
+## Tools
+
+| Project | Primary Tool | Domain |
+| Health Insurance Cost & Risk Analysis | Tableau | Insurance / Risk Analytics |
+
+## Author
+
+**Adelaja Adeniyi**  
+Business Intelligence / Data Analyst
+
+[LinkedIn](https://www.linkedin.com/in/adelajasamuel99)
