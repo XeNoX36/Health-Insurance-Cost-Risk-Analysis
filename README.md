@@ -1,4 +1,5 @@
-![Image description](Health Insurance Risk3.png)
+![Image description](https://github.com/XeNoX36/Health-Insurance-Cost-Risk-Analysis/blob/main/Health%20Insurance%20Risk3.png)
+![Image description](https://github.com/XeNoX36/Health-Insurance-Cost-Risk-Analysis/blob/main/Health%20Insurance%20Risk4.png)
 # Health-Insurance-Cost-Risk-Analysis
 This project analyzes insurance applicant data to understand the factors associated with insurance costs and identify patterns across customer and health characteristics.
 **Tool:** Tableau  
